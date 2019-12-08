@@ -1,13 +1,16 @@
 title: abc
-contentList:
+subContentItemList:
  - !!map
-  title: content1
-  subContentList:
+  title: subaaaaaa1
+  subContentItemList:
    - !!map
     title: subaaaaaa1
-    url: http://subaaaaa1
-   - !!map
+    uri: https://raw.githubusercontent.com/hfjlb/TS-REACT-APP/master/src/component/Untitled-1.md?token=ADUNQOGINRASZTKX7CAYLHK55II4K
+ - !!map
     title: subaaaaaa2
+    url: http://subaaaaa2
+ - !!map
+    title: ccccc
     url: http://subaaaaa2
  - !!map
   title: content2
