@@ -1,0 +1,14 @@
+title: abc
+contentList:
+ - !!map
+  title: content1
+  subContentList:
+   - !!map
+    title: subaaaaaa1
+    url: http://subaaaaa1
+   - !!map
+    title: subaaaaaa2
+    url: http://subaaaaa2
+ - !!map
+  title: content2
+  url: http://xxxx
