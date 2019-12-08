@@ -5,13 +5,13 @@ subContentItemList:
   subContentItemList:
    - !!map
     title: video in md
-    uri: https://raw.githubusercontent.com/hfjlb/TS-REACT-APP/master/src/component/Untitled-1.md?token=ADUNQOHZBOTPDC7UOHUH4JS55RZNG
+    uri: https://raw.githubusercontent.com/hfjlb/Nothing/master/video%20in%20md.md
    - !!map
       title: md
       uri: https://raw.githubusercontent.com/apollographql/apollo-client/master/docs/source/api/react-apollo.md
    - !!map
       title: ppt
-      uri: https://raw.githubusercontent.com/hfjlb/Nothing/master/video%20in%20md.md
+      uri: https://github.com/hfjlb/Nothing/blob/master/xx.pptx?raw=true
    - !!map
       title: pdf
       uri: https://github.com/hfjlb/Nothing/raw/master/xx.pdf
