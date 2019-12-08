@@ -11,7 +11,7 @@ subContentItemList:
       uri: https://raw.githubusercontent.com/apollographql/apollo-client/master/docs/source/api/react-apollo.md
    - !!map
       title: ppt
-      uri: https://github.com/hfjlb/Nothing/blob/master/xx.pptx?raw=true
+      uri: https://raw.githubusercontent.com/hfjlb/Nothing/master/video%20in%20md.md
    - !!map
       title: pdf
       uri: https://github.com/hfjlb/Nothing/raw/master/xx.pdf
