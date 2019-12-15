@@ -8,7 +8,7 @@ subContentItemList:
     uri: https://raw.githubusercontent.com/hfjlb/Nothing/master/video%20in%20md.md
    - !!map
     title: video mp4
-    uri: https://raw.githubusercontent.com/hfjlb/Nothing/master/video%20in%20md.md
+    uri: https://media.w3.org/2010/05/sintel/trailer_hd.mp4
    - !!map
       title: md
       uri: https://raw.githubusercontent.com/apollographql/apollo-client/master/docs/source/api/react-apollo.md
