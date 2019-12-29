@@ -7,26 +7,22 @@ subContentItemList:
   title: 各種コンテンツを組む方法
   subContentItemList:
    - !!map
-      title: ⓪まとめ
-      uri: https://raw.githubusercontent.com/apollographql/apollo-client/master/docs/source/api/react-apollo.md
-   - !!map
       title: ①mdコンテンツを組む（URIを設定する）
-      uri: https://raw.githubusercontent.com/apollographql/apollo-client/master/docs/source/api/react-apollo.md
+      uri: https://raw.githubusercontent.com/hfjlb/Nothing/master/sample/md%E3%82%B3%E3%83%B3%E3%83%86%E3%83%B3%E3%83%84%E3%82%92%E7%B5%84%E3%82%80.md
    - !!map
-      title: ②pptコンテンツを組む（URIを設定する）
-      uri: https://github.com/hfjlb/Nothing/blob/master/xx.pptx?raw=true
+      title: ②pptxコンテンツを組む（URIを設定する）
+      uri: https://raw.githubusercontent.com/hfjlb/Nothing/master/sample/ppt%E3%82%B3%E3%83%B3%E3%83%86%E3%83%B3%E3%83%84%E3%82%92%E7%B5%84%E3%82%80.md
    - !!map
-      title: ③pptコンテンツを組む（URIを設定する）
-      uri: https://github.com/hfjlb/Nothing/raw/master/xx.pdf
+      title: ③pdfコンテンツを組む（URIを設定する）
+      uri: https://raw.githubusercontent.com/hfjlb/Nothing/master/sample/pdf%E3%82%B3%E3%83%B3%E3%83%86%E3%83%B3%E3%83%84%E3%82%92%E7%B5%84%E3%82%80.md
    - !!map
-    title: ④mdファイル中に、videoを埋める方法
-    uri: https://raw.githubusercontent.com/hfjlb/Nothing/master/video%20in%20md.md
+    title: ④mdファイル中に、mp4やyoutubeのvideoを埋める方法
+    uri: https://raw.githubusercontent.com/hfjlb/Nothing/master/sample/md%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB%E3%81%ABvideo%E3%82%92%E5%9F%8B%E3%82%81%E3%82%8B%20.md
    - !!map
-    title: ⑤mp4コンテンツを組む（URIを設定する）
+    title: ⑤mp4のvideoコンテンツを組む
     uri: https://media.w3.org/2010/05/sintel/trailer_hd.mp4
    - !!map
     title: ⑥youtube4コンテンツを組む
     uri: 2g811Eo7K8U.youtube
-
 
 
