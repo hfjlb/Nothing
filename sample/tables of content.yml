@@ -2,7 +2,7 @@ title: 使用方法
 subContentItemList:
  - !!map
   title: まとめ
-  uri: http://xxxx
+  uri: https://github.com/hfjlb/Nothing/raw/master/sample/%E7%BA%8F%E3%82%81.md
  - !!map
   title: 各種コンテンツを組む方法
   subContentItemList:
